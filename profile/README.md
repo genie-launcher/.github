@@ -1,4 +1,4 @@
-## qkwik Launcher
+## Genie Launcher
 
 <!--
 
